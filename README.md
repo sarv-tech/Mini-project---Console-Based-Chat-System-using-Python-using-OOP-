@@ -32,3 +32,10 @@ Classes & Objects
 Class and Instance Variables
 
 Console-based Application
+
+
+
+# Screenshot 
+
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/02b2c641-bd8f-4972-8641-e5e4f275ccd7" />
+
